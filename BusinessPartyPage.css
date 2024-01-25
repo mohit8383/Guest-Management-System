@@ -1,0 +1,259 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 966px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 692px;
+  background-image: url("images/jenean-newcomb-RzuxpXvwFbE-unsplash.jpg");
+  background-position: 50% 50%;
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-1 .u-container-layout-1 {
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 879px;
+  background-image: none;
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Aladin;
+  font-weight: 400;
+  font-size: 3.75rem;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-scale: 1;
+  --animation-custom_in-translate_y: -300px;
+  margin: 9px -44px 0 -6px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 764px;
+  margin: 0 60px -26px 84px;
+}
+
+.u-section-1 .u-text-2 {
+  margin-left: 0;
+  font-size: 1.5rem;
+  line-height: 1.4;
+  font-family: "Akaya Kanadaka";
+}
+
+.u-section-1 .u-form-group-2 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-1 {
+  font-size: 1.125rem;
+}
+
+.u-section-1 .u-input-1 {
+  font-family: "Allerta Stencil";
+  font-size: 1.125rem;
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-2 {
+  font-size: 1.125rem;
+}
+
+.u-section-1 .u-input-2 {
+  font-family: "Allerta Stencil";
+  font-size: 1.125rem;
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-3 {
+  font-size: 1.125rem;
+}
+
+.u-section-1 .u-input-3 {
+  font-family: "Allerta Stencil";
+  font-size: 1.125rem;
+}
+
+.u-section-1 .u-form-group-5 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-4 {
+  font-size: 1.125rem;
+}
+
+.u-section-1 .u-input-4 {
+  font-family: "Allerta Stencil";
+  font-size: 1.125rem;
+}
+
+.u-section-1 .u-form-group-6 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-5 {
+  font-size: 1.125rem;
+}
+
+.u-section-1 .u-input-5 {
+  font-family: "Allerta Stencil";
+  font-size: 1.125rem;
+}
+
+.u-section-1 .u-form-group-7 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-6 {
+  font-size: 1.125rem;
+}
+
+.u-section-1 .u-input-6 {
+  font-family: "Allerta Stencil";
+  font-size: 1.125rem;
+}
+
+.u-section-1 .u-form-group-8 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-7 {
+  font-size: 1.125rem;
+}
+
+.u-section-1 .u-input-7 {
+  font-family: "Allerta Stencil";
+  font-size: 1.125rem;
+}
+
+.u-section-1 .u-btn-1 {
+  letter-spacing: 0px;
+  background-image: none;
+  font-size: 1.25rem;
+  text-transform: none;
+  width: 100%;
+  font-weight: 700;
+  padding: 11px 0 12px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 769px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 571px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 725px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-form-1 {
+    height: 566px;
+    width: 616px;
+    margin-left: 11px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-weight: normal;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 724px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 1312px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 396px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 984px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-form-1 {
+    height: 764px;
+    width: 470px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 32px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 620px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-form-1 {
+    height: 319px;
+    width: 340px;
+  }
+}

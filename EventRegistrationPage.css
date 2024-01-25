@@ -1,0 +1,258 @@
+ .u-section-1 {
+  background-image: url("images/simon-joseph-HYthtcnH6kk-unsplash.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1136px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 798px;
+  min-height: 1001px;
+  height: auto;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  background-image: linear-gradient(74deg, white, #eff9fd);
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 118px auto 17px 166px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 758px;
+  height: 244px;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 27px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 617px;
+  width: 668px;
+  margin: 41px auto 0;
+}
+
+.u-section-1 .u-form-group-1 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-1 {
+  text-transform: uppercase;
+  font-family: Baumans;
+  font-size: 1.125rem;
+}
+
+.u-section-1 .u-input-1 {
+  background-image: none;
+  font-family: "Allerta Stencil";
+}
+
+.u-section-1 .u-form-group-2 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-2 {
+  text-transform: uppercase;
+  font-family: Baumans;
+  font-size: 1.125rem;
+}
+
+.u-section-1 .u-input-2 {
+  background-image: none;
+  font-family: "Allerta Stencil";
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-3 {
+  text-transform: uppercase;
+  font-family: Baumans;
+  font-size: 1.125rem;
+}
+
+.u-section-1 .u-input-3 {
+  background-image: none;
+  font-family: "Allerta Stencil";
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-4 {
+  text-transform: uppercase;
+  font-family: Baumans;
+  font-size: 1.125rem;
+}
+
+.u-section-1 .u-input-4 {
+  background-image: none;
+  font-family: "Allerta Stencil";
+}
+
+.u-section-1 .u-form-group-5 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-5 {
+  text-transform: uppercase;
+  font-family: Baumans;
+  font-size: 1.125rem;
+}
+
+.u-section-1 .u-input-5 {
+  background-image: none;
+  font-family: "Allerta Stencil";
+}
+
+.u-section-1 .u-form-group-6 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-6 {
+  text-transform: uppercase;
+  font-family: Baumans;
+  font-size: 1.125rem;
+}
+
+.u-section-1 .u-input-6 {
+  background-image: none;
+  font-family: "Allerta Stencil";
+}
+
+.u-section-1 .u-form-group-7 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-7 {
+  text-transform: uppercase;
+  font-family: Baumans;
+  font-size: 1.125rem;
+}
+
+.u-section-1 .u-input-7 {
+  background-image: none;
+  font-family: "Allerta Stencil";
+}
+
+.u-section-1 .u-form-group-8 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-8 {
+  text-transform: uppercase;
+  font-family: Baumans;
+  font-size: 1.125rem;
+}
+
+.u-section-1 .u-input-8 {
+  background-image: none;
+  font-family: "Allerta Stencil";
+}
+
+.u-section-1 .u-form-group-9 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-9 {
+  text-transform: uppercase;
+  font-family: Baumans;
+  font-size: 1.125rem;
+}
+
+.u-section-1 .u-input-9 {
+  background-image: none;
+  font-family: "Allerta Stencil";
+}
+
+.u-section-1 .u-label-10 {
+  width: 100px;
+  font-family: Baumans;
+  font-size: 1.125rem;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  border-style: none;
+  text-transform: uppercase;
+  width: 100%;
+  letter-spacing: 2px;
+  font-weight: 700;
+  font-family: Baumans;
+  font-size: 1.125rem;
+  padding: 14px 0 15px;
+}
+
+.u-section-1 .u-shape-1 {
+  box-shadow: 2px 0px 8px 0px rgba(128,128,128,1);
+  margin: 32px auto 0 130px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1059px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-left: 142px;
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-group-1 {
+    width: 720px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 720px;
+    height: 232px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-left: 52px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-group-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 174px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 110px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+}
