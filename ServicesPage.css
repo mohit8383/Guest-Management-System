@@ -1,0 +1,310 @@
+.loader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: white;
+  transition: opacity 0.75s, visibility 0.75s;
+}
+
+.loader--hidden {
+  opacity: 0;
+  visibility: hidden;
+}
+
+.loader::after {
+  content: "";
+  width: 75px;
+  height: 75px;
+  border: 15px solid #dddddd;
+  border-top-color: #df5151;
+  border-radius: 50%;
+  animation: loading 0.75s ease infinite;
+}
+
+@keyframes loading {
+  from {
+    transform: rotate(0turn);
+  }
+  to {
+    transform: rotate(1turn);
+  }
+}
+
+
+.u-section-1 .u-sheet-1 {
+  min-height: 176px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Allerta Stencil";
+  margin-bottom: 0;
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-scale: 1;
+  --animation-custom_in-translate_y: 0px;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: "Allerta Stencil";
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-scale: 1;
+  --animation-custom_in-translate_y: 0px;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: Almendra;
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-scale: 1;
+  --animation-custom_in-translate_y: 0px;
+  margin: 48px auto -296px 0;
+}.u-section-2 .u-sheet-1 {
+  min-height: 776px;
+}
+
+.u-section-2 .u-list-1 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  grid-template-rows: auto;
+}
+
+.u-section-2 .u-repeater-1 {
+  grid-template-columns: calc(33.3333% - 18.6667px) calc(33.3333% - 18.6667px) calc(33.3333% - 18.6667px);
+  grid-gap: 28px 28px;
+  min-height: 917px;
+}
+
+.u-section-2 .u-list-item-1 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-2 .u-image-1 {
+  background-image: linear-gradient(0deg, rgba(229,229,229,0.55), rgba(229,229,229,0.55)), url("images/khadija-yousaf-lKwp3-FQomY-unsplash.jpg");
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-1 {
+  font-family: Almendra;
+  font-weight: 700;
+  width: 218px;
+  margin: 270px auto 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 18px;
+  font-family: "Allerta Stencil";
+}
+
+.u-section-2 .u-list-item-2 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-2 .u-image-2 {
+  background-image: linear-gradient(0deg, rgba(229,229,229,0.55), rgba(229,229,229,0.55)), url("images/exhibition-1659478_1920.jpg");
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-3 {
+  font-family: Almendra;
+  font-weight: 700;
+  width: 218px;
+  margin: 270px auto 0;
+}
+
+.u-section-2 .u-text-4 {
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 18px;
+  font-family: "Allerta Stencil";
+}
+
+.u-section-2 .u-list-item-3 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-2 .u-image-3 {
+  background-image: linear-gradient(0deg, rgba(229,229,229,0.55), rgba(229,229,229,0.55)), url("images/pexels-ekaterina-bolovtsova-4868625.jpg");
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-5 {
+  font-family: Almendra;
+  font-weight: 700;
+  width: 218px;
+  margin: 270px auto 0;
+}
+
+.u-section-2 .u-text-6 {
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 18px;
+  font-family: "Allerta Stencil";
+}
+
+.u-section-2 .u-list-item-4 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-2 .u-image-4 {
+  background-image: linear-gradient(0deg, rgba(229,229,229,0.55), rgba(229,229,229,0.55)), url("images/jenean-newcomb-RzuxpXvwFbE-unsplash.jpg");
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-7 {
+  font-family: Almendra;
+  font-weight: 700;
+  width: 218px;
+  margin: 270px auto 0;
+}
+
+.u-section-2 .u-text-8 {
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 18px;
+  font-family: "Allerta Stencil";
+}
+
+.u-section-2 .u-list-item-5 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-2 .u-image-5 {
+  background-image: linear-gradient(0deg, rgba(229,229,229,0.55), rgba(229,229,229,0.55)), url("images/bruno-souza-Xz8BM449WOQ-unsplash.jpg");
+}
+
+.u-section-2 .u-container-layout-5 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-9 {
+  font-family: Almendra;
+  font-weight: 700;
+  width: 218px;
+  margin: 270px auto 0;
+}
+
+.u-section-2 .u-text-10 {
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 18px;
+  font-family: "Allerta Stencil";
+}
+
+.u-section-2 .u-list-item-6 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-2 .u-image-6 {
+  background-image: linear-gradient(0deg, rgba(229,229,229,0.55), rgba(229,229,229,0.55)), url("images/A-view-of-conference-Stand-Up-for-Democracy-held-at-IICC-Auditorium-New-Delhi.jpg");
+}
+
+.u-section-2 .u-container-layout-6 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-11 {
+  font-family: Almendra;
+  font-weight: 700;
+  width: 218px;
+  margin: 270px auto 0;
+}
+
+.u-section-2 .u-text-12 {
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 18px;
+  font-family: "Allerta Stencil";
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 515px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    min-height: 753px;
+  }
+
+  .u-section-2 .u-list-item-1 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-2 .u-list-item-2 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-2 .u-list-item-3 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-2 .u-list-item-4 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-2 .u-list-item-5 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-2 .u-list-item-6 {
+    background-position: 50% 50%;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 916px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    grid-template-columns: calc(50% - 14px) calc(50% - 14px);
+    min-height: 1333px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+}
